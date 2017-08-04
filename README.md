@@ -12,4 +12,4 @@ This application shows use DC-DW-One
  data store
  
  # hun
-data exchage
+data exchange
